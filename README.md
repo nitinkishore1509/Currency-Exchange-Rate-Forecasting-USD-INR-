@@ -42,15 +42,5 @@ It uses historical daily closing prices to build a seasonal time series forecast
 
 ---
 
-## 📊 Sample Output
 
-| Step | Plot |
-|------|------|
-| **Historical Data** | ![Historical Data](images/historical_data.png) |
-| **SARIMAX Predictions** | ![Predictions](images/predictions.png) |
-| **Forecast** | ![Forecast](images/forecast.png) |
-
----
-
-## 📂 Project Structure
 
